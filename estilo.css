@@ -1,0 +1,33 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+.pendiente{
+background-color: Red;
+height: 100px;
+}
+
+.tarea{
+font-size:20px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding-top: 10px
+
+height: 30px;
+width: 50%
+}
+.ejecuto{
+display: block;
+margin-left: auto;
+margin-right: auto;
+height: 30px;
+width: 70px;
+}
+
+.publi{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
